@@ -24,3 +24,8 @@ The objective of the project is to predict the captions for the input image. The
   
 **BLEU-1 Score:** 0.544
 **BLEU-2 Score:** 0.319
+
+#### Example outputs of Image Caption Generator:
+![example 1](https://github.com/SBNoor/ImageCaptionGenerator/blob/main/img1.png)
+![example 2](https://github.com/SBNoor/ImageCaptionGenerator/blob/main/img2.png)
+![example 3](https://github.com/SBNoor/ImageCaptionGenerator/blob/main/img3.png)
